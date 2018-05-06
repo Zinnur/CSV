@@ -1,8 +1,10 @@
+package parse;
+
 import java.io.FileReader;
 import java.util.Arrays;
 import au.com.bytecode.opencsv.CSVReader;
 
-public class ParseCSVLineByLine
+public class        ParseCSVLineByLine
 {
     @SuppressWarnings("resource")
     public static void main(String[] args) throws Exception
